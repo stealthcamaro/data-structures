@@ -1,0 +1,8 @@
+# Ignore access token file anywhere
+data_structures_repo_access_token.txt
+
+# Ignore any a.out in any folder
+*.out
+
+# Ignore .DS_Store everywhere
+.DS_Store
