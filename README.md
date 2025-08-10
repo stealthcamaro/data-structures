@@ -1,2 +1,2 @@
 # data-structures
-Repository Containing Basic Data Structures
+Repository Containing Data Structures Programs
