@@ -1,7 +1,7 @@
 #include <iostream>
 
 /* singly linked list class with a value
-   and reference to the nextNode */
+   and reference to the nextNode. */
 class linkedlist {
     public:
     int value;
